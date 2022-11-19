@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "contingency"]
+	path = contingency
+	url = https://github.com/rje42/contingency
+	shallow = true
+	registered = true
