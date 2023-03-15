@@ -8,3 +8,8 @@
 	url = https://github.com/rje42/contingency
 	shallow = true
 	registered = true
+[submodule "rje"]
+	path = rje
+	url = https://github.com/rje42/rje
+	shallow = true
+	registered = true
